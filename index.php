@@ -99,38 +99,7 @@ Then you should be set to export as CSV.
 
   <body>
     <h1>Mental Model</h1>
-    <div class="settings">
-      <div class="legend">
-        <h2>Legend</h2>
-        <div class="QE">QE</div>
-        <div class="PE">Productization Engineer</div>
-        <div class="UD">Upstream Dev</div>
-        <div class="PM">Product/Program Management</div>
-        <div class="RCM">RCM</div>
-        <div class="Other">Other</div>
-      </div>
-      <div class="legend">
-        <h2>Transcript links</h2>
-        <div><a href="interviews/AndrewHills.html" target="_blank">AH</a></div>
-        <div><a href="interviews/EmilNadan_1.html" target="_blank">EE</a></div>
-        <div><a href="interviews/EmilNadan_2.html" target="_blank">EN (some in EE)</a></div>
-        <div><a href="interviews/JoeyBoggs.html" target="_blank">JB</a></div>
-        <div><a href="interviews/MartinPitt.html" target="_blank">MP</a></div>
-        <div><a href="interviews/MikeMcCormas.html" target="_blank">MM</a></div>
-        <div><a href="interviews/NellyCredi.html" target="_blank">NC</a></div>
-        <div><a href="interviews/PaulGallagher.html" target="_blank">PG</a></div>
-        <div><a href="interviews/RyanHartman.html" target="_blank">RH</a></div>
-        <div><a href="interviews/VanessaRamos.html" target="_blank">VR</a></div>
-      </div>
-      <button id="toggleCpaas">Toggle CPaaS Relevancy</button>
-      <div id="relevancyLegend" class="legend">
-        <div class="flex-it">
-          <div class="high">High</div>
-          <div class="med">Med</div>
-          <div class="low">Low</div>
-        </div>
-      </div>
-    </div>
+    
     <div class="content">
       <span><?php ?></span>
         <?php
